@@ -2,4 +2,5 @@ env/
 context_extracted.txt
 CVM_Course_ECC.pptx.pdf
 notebook.ipynb
+.ipynb_checkpoints/
 
